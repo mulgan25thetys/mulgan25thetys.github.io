@@ -1,0 +1,1 @@
+<div class="alert alert-info"><?php $this->session->flashdata('upload_data');?></div>
